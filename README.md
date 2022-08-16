@@ -5,6 +5,5 @@
 - `position: absolute` was used to position the "50% discount" image. 
 
 ***
-# [Deployed Link](https://saurabh-product-home-page.netlify.app/)
 
 ## Time Taken to Complete Project: **45 minutes**
